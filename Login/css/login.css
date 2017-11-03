@@ -1,0 +1,51 @@
+.text-center{
+    text-align: center;
+}
+
+.container{
+    margin: 0 auto;
+    width: 600px;
+    padding-top: 15%;
+}
+
+.form{
+    margin: 0 auto;
+    width: 400px;
+}
+
+.error{
+    text-align: center;
+    color: #AE0A0A;
+}
+
+.titulo{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 200;
+    margin-bottom:  10px;
+}
+
+.firma{
+    color: #fff;
+    display: inline-block;
+}
+.input{
+    width: 100%;
+    height: 30px;
+    color: #444;
+    border: 1px solid #0070ba;
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn{
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+    color: #444;
+    cursor: pointer;
+    background: #fff;
+    border: 1px solid #0070ba;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    float: left;
+}
