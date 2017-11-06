@@ -11,5 +11,5 @@
     
   # Contenido
     >> El código fuente está dividido en dos secciones. Chat hace referencia al código js y Login al php.
-    >> Todo los documentos están concienciadamente comentados para su mejor comprensión.
+    >> Todo los documentos están conciencudamente comentados para su mejor comprensión.
 
